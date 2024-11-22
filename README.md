@@ -48,4 +48,4 @@ Si tienes preguntas o inquietudes sobre esta política de privacidad, puedes con
 
 --- 
 
-**Nota:** Esta política de privacidad aplica únicamente a **[nombre de la aplicación]** y no a servicios o aplicaciones de terceros.
+**Nota:** Esta política de privacidad aplica únicamente a **[Salario SV]** y no a servicios o aplicaciones de terceros.
