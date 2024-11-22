@@ -44,7 +44,7 @@ Nos reservamos el derecho de actualizar esta política de privacidad en cualquie
 ## Contacto  
 
 Si tienes preguntas o inquietudes sobre esta política de privacidad, puedes contactarnos a través de:  
-**Correo electrónico:** [dev.drubi@gmail.com]  
+**Correo electrónico:** dev.drubi@gmail.com  
 
 --- 
 
