@@ -3,7 +3,7 @@
 **Última actualización: 22 de noviembre de 2024**
 
 ## Introducción  
-En **[nombre de la aplicación]** ("la aplicación"), respetamos y protegemos la privacidad de nuestros usuarios. Esta política de privacidad describe cómo recopilamos, usamos y protegemos la información proporcionada por los usuarios de nuestra aplicación para calcular el salario en El Salvador. Al utilizar nuestra aplicación, aceptas los términos descritos en esta política.
+En **Salario Sv**, respetamos y protegemos la privacidad de nuestros usuarios. Esta política de privacidad describe cómo recopilamos, usamos y protegemos la información proporcionada por los usuarios de nuestra aplicación para calcular el salario en El Salvador. Al utilizar nuestra aplicación, aceptas los términos descritos en esta política.
 
 ---
 
@@ -48,4 +48,4 @@ Si tienes preguntas o inquietudes sobre esta política de privacidad, puedes con
 
 --- 
 
-**Nota:** Esta política de privacidad aplica únicamente a **[Salario SV]** y no a servicios o aplicaciones de terceros.
+**Nota:** Esta política de privacidad aplica únicamente a **Salario Sv** y no a servicios o aplicaciones de terceros.
